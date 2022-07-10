@@ -1,0 +1,11 @@
+package iteratioCtr_Assessment;
+
+public class quadEqun {
+    public static void main(String[] args) {
+	int a=1, b=4, c=6, x;
+	int disc=(b*b)-(4*(a*c));
+	System.out.println(disc);
+	
+    }
+
+}

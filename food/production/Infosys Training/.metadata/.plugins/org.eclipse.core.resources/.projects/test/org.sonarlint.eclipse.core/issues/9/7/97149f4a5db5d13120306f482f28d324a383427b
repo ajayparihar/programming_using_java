@@ -1,0 +1,17 @@
+
+S
+java:S2129" Remove this "String" constructor(‹‘∫Ï8Í§â‰ú0H RMAJORZ
+CODE_SMELL
+m
+java:S4973'"<Strings and Boxed types should be compared using "equals()".(è«∆’˛ˇˇˇˇ8Í§â‰ú0HÀRMAJORZBUG
+}
+java:S1192"GDefine a constant instead of duplicating this literal "Thomas" 3 times.(ÁÉ•ﬁ8Í§â‰ú0H–RCRITICALZ
+CODE_SMELL
+à
+java:S1192"MDefine a constant instead of duplicating this literal "------------" 4 times.(±‹§∏˝ˇˇˇˇ8Í§â‰ú0H‘RCRITICALZ
+CODE_SMELL
+m
+java:S4973$"<Strings and Boxed types should be compared using "equals()".(∑óüÇ¸ˇˇˇˇ8Í§â‰ú0HŸRMAJORZBUG
+X
+java:S2129"" Remove this "String" constructor(ì¡ ˆ˙ˇˇˇˇ8Í§â‰ú0HﬁRMAJORZ
+CODE_SMELL

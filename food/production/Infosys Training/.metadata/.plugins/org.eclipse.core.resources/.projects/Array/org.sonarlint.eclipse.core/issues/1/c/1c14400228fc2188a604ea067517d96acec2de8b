@@ -1,0 +1,9 @@
+
+
+java:S1223 "LRename this method to prevent any misunderstanding or make it a constructor.(õüŸ8‡ê÷ 0HúRMAJORZ
+CODE_SMELL
+€	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õüŸ8‡ê÷ 0HûRMINORZ
+CODE_SMELL
+N
+java:S3626""Remove this redundant jump.(ûÁİ…8†ó¦¡0H—RMINORZ
+CODE_SMELL

@@ -1,0 +1,30 @@
+package stringAssess;
+
+public class SpacesDuplicateRemove {
+
+    public static String removeDuplicatesandSpaces(String str) {
+	String strNoSpaces = str.replaceAll("\\s", "");
+	StringBuilder alreadyUsed = new StringBuilder();
+	StringBuilder result = new StringBuilder();
+
+	for (int i = 0; i < strNoSpaces.length(); i++) {
+	    boolean isPresent = false;
+	    for (int j = 0; j < alreadyUsed.length(); j++) {
+		if (strNoSpaces.charAt(i) == alreadyUsed.charAt(j)) {
+		    isPresent = true;
+		    result.append(strNoSpaces.charAt(i));
+		    break;
+		}
+	    }
+	    if (!isPresent)
+		alreadyUsed.append(strNoSpaces.charAt(i));
+	}
+
+	return alreadyUsed.toString();
+    }
+
+    public static void main(String[] args) {
+	String str = "object oriented programming";
+	System.out.println(removeDuplicatesandSpaces(str));
+    }
+}

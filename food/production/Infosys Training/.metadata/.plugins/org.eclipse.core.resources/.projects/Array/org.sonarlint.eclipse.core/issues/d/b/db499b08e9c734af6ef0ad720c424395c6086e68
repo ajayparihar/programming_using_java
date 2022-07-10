@@ -1,0 +1,9 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(ı…¥õşÿÿÿÿ8œûËË0HşRMAJORZ
+CODE_SMELL
+k
+java:S1854"8Remove this useless assignment to local variable "scan".(ÅÒ²º8œûËË0HÿRMAJORZ
+CODE_SMELL
+\
+java:S1481")Remove this unused "scan" local variable.(ÅÒ²º8œûËË0H€RMINORZ
+CODE_SMELL

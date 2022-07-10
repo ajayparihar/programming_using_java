@@ -1,0 +1,8 @@
+package infy_proj;
+
+public class AvgMethod {
+    public double avgCalc(int a, int b, int c) {
+	return (a+b+c)/3;
+    }
+
+}

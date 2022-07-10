@@ -1,0 +1,8 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Žƒá¢HßRMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(²ôˆ°ùÿÿÿÿHàRMAJORZ
+CODE_SMELL
+_
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿHÿRMINORZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+
+y	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ—ÊğRMINORZ
+CODE_SMELL
+~	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¿»ûÿÿÿÿRMINORZ
+CODE_SMELL
+u	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹£ÁŸRMINORZ
+CODE_SMELL
+o
+java:S2184"HCast one of the operands of this multiplication operation to a "double".( ¿»ûÿÿÿÿRMINORZBUG

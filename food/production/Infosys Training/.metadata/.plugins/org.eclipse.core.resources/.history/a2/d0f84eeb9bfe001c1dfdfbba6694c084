@@ -1,0 +1,27 @@
+package stringAssess;
+
+import java.util.Scanner;
+
+public class Palindrome {
+    public static boolean checkPalindrome(String str) {
+
+	String lStr = str.toLowerCase();
+	for (int i = 0; i < lStr.length(); i++) {
+
+	}
+
+	return false;
+    }
+
+    public static void main(String args[]) {
+
+	Scanner scan = new Scanner(System.in);
+	String str = scan.nextLine();
+	scan.close();
+
+	if (checkPalindrome(str))
+	    System.out.println("The string is a palindrome!");
+	else
+	    System.out.println("The string is not a palindrome!");
+    }
+}

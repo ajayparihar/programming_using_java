@@ -1,0 +1,10 @@
+package iteratioCtr_Assessment;
+
+public class quadEqun {
+    public static void main(String[] args) {
+	int a=1, b=4, c=4, x;
+	int disc=(b*b)-(4*(a*c));
+	
+    }
+
+}

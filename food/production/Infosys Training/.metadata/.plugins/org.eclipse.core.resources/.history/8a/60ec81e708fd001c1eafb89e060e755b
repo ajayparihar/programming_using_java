@@ -1,0 +1,16 @@
+package swiftFood;
+
+public class Order {
+    int orderId;
+    String orderedFood;
+    double totalPrice;
+    String status;
+    
+    public double calculateTotalPrice(int unitPrice){
+	
+	System.out.println("Total Price: "+(unitPrice*0.05));
+	return unitPrice;
+	
+    }
+
+}

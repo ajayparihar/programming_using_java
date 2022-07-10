@@ -1,0 +1,24 @@
+package iteratioCtr_Assessment;
+
+import java.util.Scanner;
+
+public class armstrongNo {
+    public static void main(String[] args) {
+	int num, temp, power;
+	String length;
+
+	Scanner scan = new Scanner(System.in);
+	num = scan.nextInt();
+	temp = num;
+	
+	length=Integer.toString(num);
+	
+	power = (int) Math.pow(num, power);
+	System.out.println(power);
+
+	while (num > 0) {
+
+	}
+
+    }
+}

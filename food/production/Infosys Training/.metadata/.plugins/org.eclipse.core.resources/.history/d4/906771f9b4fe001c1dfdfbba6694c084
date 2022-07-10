@@ -1,0 +1,13 @@
+package stringAssess;
+
+public class MostOccured {
+    public static int findHighestOccurrence(String str) {
+		char ch[]=str.toCharArray();
+	return ch[2];
+    }
+
+    public static void main(String[] args) {
+	String str = "success";
+	System.out.println(findHighestOccurrence(str));
+    }
+}

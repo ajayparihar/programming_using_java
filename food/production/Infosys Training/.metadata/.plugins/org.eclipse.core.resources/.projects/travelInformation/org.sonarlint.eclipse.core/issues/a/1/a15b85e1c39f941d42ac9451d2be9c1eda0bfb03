@@ -1,0 +1,12 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÃÎŠüÿÿÿÿHÙRMINORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“ÚäˆHÚRMINORZ
+CODE_SMELL
+	java:S116"XRename this field "BaggageAmount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©êº±øÿÿÿÿ8ğÆøŸ0HÛRMINORZ
+CODE_SMELL
+…	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ô–„øÿÿÿÿ8ğÆøŸ0HİRMINORZ
+CODE_SMELL
+Y
+java:S1170"!Make this final field static too.(Øº±Ôÿÿÿÿÿ8ğÆøŸ0HÜRMINORZ
+CODE_SMELL

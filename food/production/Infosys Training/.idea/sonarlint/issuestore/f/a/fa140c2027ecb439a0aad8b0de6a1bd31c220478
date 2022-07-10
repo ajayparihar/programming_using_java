@@ -1,0 +1,16 @@
+
+m
+java:S1104"RMake custId a static final constant or non-public and provide accessors if needed.(Œ‚ñÄûÿÿÿÿ
+o
+java:S1104"TMake custName a static final constant or non-public and provide accessors if needed.(§¢Í–üÿÿÿÿ
+m
+java:S1104"RMake custNo a static final constant or non-public and provide accessors if needed.(¦´Äùÿÿÿÿ
+h
+java:S1104"SMake custAdd a static final constant or non-public and provide accessors if needed.(³õô!
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(”‘Ìç
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ õ€ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(úìœ¥
+S	java:S106"9Replace this use of System.out or System.err by a logger.(úÛÌ°şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ğı¢¾
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

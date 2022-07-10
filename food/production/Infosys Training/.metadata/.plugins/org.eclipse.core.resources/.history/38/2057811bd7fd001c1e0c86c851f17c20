@@ -1,0 +1,39 @@
+package movieTicket;
+
+class MovieTicket {
+    private int movId;
+    private int noOfSeats;
+
+    private MovieTicket(int movId, int seats) {
+	this.movId = movId;
+	this.noOfSeats=seats;
+    }
+
+    public int getMovId() {
+	return movId;
+    }
+
+    public void setMovId(int movId) {
+	this.movId = movId;
+    }
+
+    public int getNoOfSeats() {
+	return noOfSeats;
+    }
+
+    public void setNoOfSeats(int noOfSeats) {
+	this.noOfSeats = noOfSeats;
+    }
+
+}
+
+class Tester {
+    public static void main(String[] args) {
+	MovieTicket movieTicket = new MovieTicket(112, 3);
+	double amount = movieTicket.calculateTotalAmount();
+	if (amount == 0)
+	    System.out.println("Sorry! Please enter valid movie Id and number of seats");
+	else
+	    System.out.println("Total amount for booking : $" + amount);
+    }
+}

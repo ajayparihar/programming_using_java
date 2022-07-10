@@ -1,0 +1,28 @@
+package iteratioCtr_Assessment;
+
+import java.util.Scanner;
+
+public class foodDelivery {
+    public static void main(String[] args) {
+	Scanner sc = new Scanner(System.in);
+	
+	System.out.println("Enter 'V' For Veg Food/nEnter 'N' For Non-Veg Food");
+	char food = sc.next().charAt(0);
+	int distance = sc.nextInt();
+	int quantity = sc.nextInt();
+
+	if (food == 'N' || food == 'n') {
+	    
+	}
+
+	else if (food == 'V' || food == 'v') {
+	    System.out.println(-1);
+	}
+
+	else {
+	    System.out.println("Invalid Input!!.... Enter 'N' or 'V'");
+	}
+
+    }
+
+}

@@ -1,0 +1,19 @@
+package iteratioCtr_Assessment;
+
+import java.util.Scanner;
+
+public class foodDelivery {
+    public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
+	char food = 'N';
+	    int distance, quantity;
+	    
+	    if (food=='N' || food=='n') {
+		
+	    } else {
+
+	    } 
+	    
+    }
+
+}

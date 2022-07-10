@@ -1,0 +1,35 @@
+package infy_proj;
+
+import java.util.Scanner;
+
+public class AvgMethod {
+    public double avgCalc(int a, int b, int c) {
+	
+	return (a + b + c) / 3.00;
+
+	//double avg = (a + b + c) / 3.00;
+
+	//System.out.println(Math.round((avg*100.0)/100.0));
+
+    }
+
+    public static void main(String[] args) {
+	int num1;
+	int num2;
+	int num3;
+
+	AvgMethod avg = new AvgMethod();
+
+	Scanner scan = new Scanner(System.in);
+
+	num1 = scan.nextInt();
+	num2 = scan.nextInt();
+	num3 = scan.nextInt();
+
+	scan.close();
+
+	avg.avgCalc(num1, num2, num3);
+
+    }
+
+}

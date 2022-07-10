@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+net.sourceforge.pmd.eclipse.plugin.active_renderers=,text
+net.sourceforge.pmd.eclipse.plugin.active_rules=,VariableNamingConventions,ClassNamingConventions,MethodNamingConventions,PackageCase,SystemPrintln,UnusedImports
+net.sourceforge.pmd.eclipse.plugin.globalRuleManagement=true

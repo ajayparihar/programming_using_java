@@ -1,0 +1,11 @@
+package string;
+
+public class Str {
+    
+    String string;
+    
+    public void removeWhiteSpaces() {
+	
+    }
+
+}

@@ -1,0 +1,26 @@
+
+Ñ
+java:S1192+"XDefine a constant instead of duplicating this literal "Eligible Loan Amount = " 3 times.(Ä∫±ÉRCRITICALZ
+CODE_SMELL
+Ç
+java:S1192,"QDefine a constant instead of duplicating this literal "Eligible EMIs = " 3 times.(çÿñÖ˙ˇˇˇˇRCRITICALZ
+CODE_SMELL
+z	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËÕòÑ¯ˇˇˇˇRMINORZ
+CODE_SMELL
+á	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í˛ÕØ¸ˇˇˇˇRMINORZ
+CODE_SMELL
+c
+java:S1854":Remove this useless assignment to local variable "expEmi".(¿Û∑ñRMAJORZ
+CODE_SMELL
+g
+java:S1854">Remove this useless assignment to local variable "expLoanAmt".(ÀË¡¶RMAJORZ
+CODE_SMELL
+l
+java:S1659	"CDeclare "accBal" and all following declarations on a separate line.(¥≈Ã˘RMINORZ
+CODE_SMELL
+X
+java:S1481	"/Remove this unused "expLoanAmt" local variable.(¥≈Ã˘RMINORZ
+CODE_SMELL
+T
+java:S1481	"+Remove this unused "expEmi" local variable.(¥≈Ã˘RMINORZ
+CODE_SMELL

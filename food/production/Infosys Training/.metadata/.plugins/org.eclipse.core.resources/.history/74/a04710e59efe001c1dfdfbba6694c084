@@ -1,0 +1,23 @@
+package stringAssess;
+
+import java.util.Scanner;
+
+public class WordReverse {
+
+    public static String reverseEachWord(String str) {
+	
+	String wordArr=str.toString();
+	String wRStr = wordArr;
+
+	return wRStr;
+    }
+
+    public static void main(String args[]) {
+
+	Scanner scan = new Scanner(System.in);
+	String str = scan.nextLine();
+	scan.close();
+
+	System.out.println(reverseEachWord(str));
+    }
+}

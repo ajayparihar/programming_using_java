@@ -1,0 +1,14 @@
+package subjects;
+
+class Teacher {
+    public String teacherName;
+    public String subject;
+    public double salary;
+
+}
+
+class Subject {
+    public static void main(String[] args) {
+	System.out.println("Test");
+    }
+}

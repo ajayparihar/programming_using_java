@@ -1,0 +1,15 @@
+
+‘
+java:S1104"YMake contactNumber a static final constant or non-public and provide accessors if needed.(“‚÷Ëøÿÿÿÿ8Şş¾0HÿRMINORZ
+CODE_SMELL
+‹
+java:S1104"SMake address a static final constant or non-public and provide accessors if needed.(€ªµúÿÿÿÿÿ8Şş¾0H€RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î®HRMINORZ
+CODE_SMELL
+
+java:S1104"VMake customerId a static final constant or non-public and provide accessors if needed.(«Õ„úÿÿÿÿ8Şş¾0H‚RMINORZ
+CODE_SMELL
+
+java:S1104"XMake customerName a static final constant or non-public and provide accessors if needed.(—ÃïÂøÿÿÿÿ8Şş¾0HƒRMINORZ
+CODE_SMELL

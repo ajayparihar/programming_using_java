@@ -1,0 +1,20 @@
+package swiftFood;
+
+class food {
+    private String foodName;
+    private String cuisine;
+    private String foodType;
+    private int quantityAvailable;
+    private double unitPrice;
+
+    public void dispfoodDetails() {
+	System.out.println("Displaying Food Details...");
+	System.out.println("Food Name:- " + foodName);
+	System.out.println("Cuisine:- " + cuisine);
+	System.out.println("Food Type:- " + foodType);
+	System.out.println("Quantity Available:- " + quantityAvailable);
+	System.out.println("Unit Price:- " + unitPrice);
+	System.out.println();
+
+    }
+}

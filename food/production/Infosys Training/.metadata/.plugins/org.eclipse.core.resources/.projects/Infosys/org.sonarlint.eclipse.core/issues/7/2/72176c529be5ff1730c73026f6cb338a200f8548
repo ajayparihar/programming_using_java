@@ -1,0 +1,10 @@
+
+z	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷Ó‘şÿÿÿÿRMINORZ
+CODE_SMELL
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’şÍ¯üÿÿÿÿRMINORZ
+CODE_SMELL
+_
+java:S3518";Make sure "sum" can't be zero before doing this modulation.(ùÒRCRITICALZBUG
+o
+java:S1659"ADeclare "num1" and all following declarations on a separate line.(©ˆ®şÿÿÿÿRMINORZ
+CODE_SMELL

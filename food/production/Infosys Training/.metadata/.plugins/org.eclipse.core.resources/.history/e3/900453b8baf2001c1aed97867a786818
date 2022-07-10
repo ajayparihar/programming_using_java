@@ -1,0 +1,19 @@
+package iteratioCtr_Assessment;
+
+import java.util.Scanner;
+
+public class armstrongNo {
+    public static void main(String[] args) {
+	int num,temp, cube;
+
+	Scanner scan = new Scanner(System.in);
+	num = scan.nextInt();
+	cube = (int) Math.pow(num, 3);
+	System.out.println(cube);
+	
+	while (num>0) {
+	    
+	}
+
+    }
+}

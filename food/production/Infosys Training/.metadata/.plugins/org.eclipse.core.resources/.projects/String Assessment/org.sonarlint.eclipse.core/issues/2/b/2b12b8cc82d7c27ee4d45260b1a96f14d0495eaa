@@ -1,0 +1,12 @@
+
+b
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8¨İÓè0HñRMINORZ
+CODE_SMELL
+O
+java:S1643"Use a StringBuilder instead.(Áë¥²8¨§¶é0HôRMINORZ
+CODE_SMELL
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âª±HõRMINORZ
+CODE_SMELL
+T
+java:S1643"Use a StringBuilder instead.(ŒÑêşÿÿÿÿ8ÈËĞé0HöRMINORZ
+CODE_SMELL

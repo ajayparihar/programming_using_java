@@ -1,0 +1,7 @@
+
+j
+java:S1450"TRemove the "bonus" field and declare it as a local variable in the relevant methods.(êÝÆê
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(åÝøŠùÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(ä˜òÏ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(¤•¡—
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(Í ¢†ýÿÿÿÿ

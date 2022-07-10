@@ -1,0 +1,61 @@
+package swiftFood;
+
+public class Tester {
+    public static void main(String[] args) {
+	/*
+	 * Customer cust = new Customer(); cust.custId = "C101"; cust.custName =
+	 * "Ajay Singh"; cust.custNo = 1234567890L; cust.custAdd = "ABCD, XYZ";
+	 * cust.dispCustDetails();
+	 */
+
+	Order order1 = new Order();
+
+	order1.orderId = 101;
+	order1.orderedFood = "Spinach Alfredo Pasta";
+	order1.totalPrice = 50;
+	order1.status = "Ordered";
+
+	//order1.calculateTotalPrice((int) order1.totalPrice);
+	
+	
+
+	Order order2 = new Order();
+
+	order2.orderId = 1001;
+	order2.orderedFood = "Garlic Shrimp";
+	order2.totalPrice = 50;
+	order2.status = "Ordered";
+	
+	
+
+	/*
+	 * Restaurant rest = new Restaurant();
+	 * 
+	 * rest.restName = "McDonald's"; rest.rating = 4.1F; rest.restContact =
+	 * 9988676767L; rest.restAddress = "SH1109, Carolina Street, Springfield";
+	 * 
+	 * rest.displayRestDetails();
+	 * 
+	 * Customer cust2 = new Customer();
+	 * 
+	 * cust2.custId = "C102"; cust2.custName = "Abhay Singh"; cust2.custNo =
+	 * 5698452316L; cust2.custAdd = "xyz, abc";
+	 * 
+	 * cust2.dispCustDetails();
+	 * 
+	 * food food1 = new food();
+	 * 
+	 * food1.foodName = "Samosa"; food1.cuisine = "Indian"; food1.foodType =
+	 * "fast Food"; food1.quantityAvailable = 5; food1.unitPrice = 15;
+	 * 
+	 * food1.dispfoodDetails();
+	 * 
+	 * food food2 = new food();
+	 * 
+	 * food2.foodName = "Gobhi Manchurian"; food2.cuisine = "Nepali"; food2.foodType
+	 * = "fast Food"; food2.quantityAvailable = 10; food2.unitPrice = 50;
+	 * 
+	 * food2.dispfoodDetails();
+	 */
+    }
+}

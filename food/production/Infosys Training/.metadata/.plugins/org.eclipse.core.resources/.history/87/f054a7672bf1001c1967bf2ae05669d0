@@ -1,0 +1,19 @@
+package iteratioCtr_Assessment;
+
+public class sevenProdOfThree {
+    public static void main(String[] args) {
+	int num1 = 1, num2 = 5, num3 = 3;
+
+	if (num3 == 7) {
+	    System.out.println(-1);
+	}
+
+	else if (num1 == 7) {
+	    System.out.println(num2 * num3);
+	}
+
+	else if (num2 == 7) {
+	    System.out.println(num3);
+	}
+    }
+}

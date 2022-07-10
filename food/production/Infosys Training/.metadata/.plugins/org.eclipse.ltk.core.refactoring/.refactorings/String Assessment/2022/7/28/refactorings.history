@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;stringAssess.StrAssess1&apos; to &apos;moveSplChar&apos;&#x0D;&#x0A;- Original project: &apos;String Assessment&apos;&#x0D;&#x0A;- Original element: &apos;stringAssess.StrAssess1&apos;&#x0D;&#x0A;- Renamed element: &apos;stringAssess.moveSplChar&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StrAssess1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;stringAssess{StrAssess1.java[StrAssess1" matchStrategy="1" name="moveSplChar" qualified="false" references="true" similarDeclarations="false" stamp="1657264753843" textual="false" version="1.0"/>
+</session>

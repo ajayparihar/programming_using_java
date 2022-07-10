@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;movieTicket.MovieTicket&apos; to &apos;Tester&apos;&#x0D;&#x0A;- Original project: &apos;Movie Ticket&apos;&#x0D;&#x0A;- Original element: &apos;movieTicket.MovieTicket&apos;&#x0D;&#x0A;- Renamed element: &apos;movieTicket.Tester&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MovieTicket&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;movieTicket{MovieTicket.java[MovieTicket" matchStrategy="1" name="Tester" qualified="false" references="true" similarDeclarations="false" stamp="1657185202302" textual="false" version="1.0"/>
+</session>

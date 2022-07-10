@@ -1,0 +1,8 @@
+package iteratioCtr_Assessment;
+
+public class starPattern {
+    public static void main(String[] args) {
+	Scanner scan=new Scanner(System.in);
+    }
+
+}

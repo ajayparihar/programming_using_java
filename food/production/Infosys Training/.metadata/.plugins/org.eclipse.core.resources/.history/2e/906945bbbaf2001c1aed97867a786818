@@ -1,0 +1,20 @@
+package iteratioCtr_Assessment;
+
+import java.util.Scanner;
+
+public class armstrongNo {
+    public static void main(String[] args) {
+	int num, temp, pow_No;
+
+	Scanner scan = new Scanner(System.in);
+	num = scan.nextInt();
+	temp = num;
+	pow_No = (int) Math.pow(num, 3);
+	System.out.println(pow_No);
+
+	while (num > 0) {
+
+	}
+
+    }
+}
